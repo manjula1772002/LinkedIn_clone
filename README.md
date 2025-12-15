@@ -17,4 +17,6 @@ This project is a cloneing for LinedIn page
 ## Manjula
 ---
 # Acknowledgement
-## Anbuselvan Annamalai
+## Tailwind CSS - Utility-first CSS framework
+## Vercel - Deployment platform
+
