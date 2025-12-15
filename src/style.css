@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+.head_sec svg{
+  fill: #666666;
+}
+
+.foot_sec{
+  color: #4B5563;
+  font-size: 12px;
+  
+}
+
+.profile_image{
+      width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
